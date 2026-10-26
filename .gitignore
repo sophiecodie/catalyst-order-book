@@ -7,3 +7,5 @@ __pycache__/
 judging-results.json
 official-seed.txt
 
+engine/build*/
+engine/pgo-data/
